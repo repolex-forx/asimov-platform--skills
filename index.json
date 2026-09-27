@@ -1,0 +1,11 @@
+{
+  "org": "asimov-platform",
+  "repo": "skills",
+  "versions": [
+    {
+      "commit": "a992743050740ab0a04dd8aabe4f87b086f17dc0",
+      "tag": "master",
+      "parsed_at": "2026-09-27T19:29:31.775179+00:00"
+    }
+  ]
+}
